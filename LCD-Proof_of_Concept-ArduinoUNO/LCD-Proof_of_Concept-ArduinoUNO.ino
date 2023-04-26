@@ -23,7 +23,7 @@ unsigned int state = MAINMENUINIT;
 unsigned int debounce = 0;
 unsigned long startTime = 0;
 unsigned long endTime = 0;
-unsigned int currentTime = 0;
+unsigned long currentTime = 0;
 char printTime[16];
 
 int readAdcButton(){
