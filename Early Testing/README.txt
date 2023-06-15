@@ -1,0 +1,1 @@
+This folder contains all of the progress towards the team's final solution
